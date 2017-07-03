@@ -5,7 +5,7 @@ import java.util.List;
 public class promotionMail {
 	
 		public static void main(String[] args) {
-			// 促销邮件
+			// 促销邮件  可以考虑多个产品多个User如何处理
 			
 			// 促销产品 
 			ProductUtil pp = new ProductUtil();
